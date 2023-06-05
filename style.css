@@ -6,34 +6,46 @@ body {
 h1 {
     font-family: 'Playfair', serif;
     align-items: center; 
+    font-size: 48px;
+    margin: 0;
 }
 
-h3 {
+h4 {
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
+    letter-spacing: 1px;
 }
 
 button {
     background-color: rgb(42 46 53);
     color: white;
-    padding-left: 60px;
-    padding-right: 60px;
+    width: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
     border: none;
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
+    letter-spacing: 1px;
+    
     
 }
 
 p {
     padding-bottom: 20px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Jost', sans-serif;
+    
 }
 
 .button {
   display: flex;
   justify-content: center;
   align-items: center;
+  
+
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
 }
