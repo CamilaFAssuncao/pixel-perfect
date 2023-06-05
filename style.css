@@ -1,12 +1,16 @@
 body {
     color: rgb(42 46 53);
-    padding: 5px;
+    padding-top: 37px;
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 27px;
 }
 
 h1 {
     font-family: 'Playfair', serif;
     align-items: center; 
-    font-size: 48px;
+    font-size: 65px;
     margin: 0;
 }
 
@@ -14,6 +18,7 @@ h4 {
     text-transform: uppercase;
     font-family: 'Jost', sans-serif;
     letter-spacing: 1px;
+    font-size: 20px;
 }
 
 button {
@@ -27,6 +32,7 @@ button {
     text-transform: uppercase;
     font-family: 'Jost', sans-serif;
     letter-spacing: 1px;
+    font-size: 20px;
     
     
 }
@@ -34,6 +40,7 @@ button {
 p {
     padding-bottom: 20px;
     font-family: 'Jost', sans-serif;
+    font-size: 30px;
     
 }
 
