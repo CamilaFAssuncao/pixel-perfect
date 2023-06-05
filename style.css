@@ -1,0 +1,39 @@
+body {
+    color: rgb(42 46 53);
+    padding: 5px;
+}
+
+h1 {
+    font-family: 'Playfair', serif;
+    align-items: center; 
+}
+
+h3 {
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    background-color: rgb(42 46 53);
+    color: white;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+p {
+    padding-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
