@@ -1,6 +1,8 @@
 img {
     height: 100vh;
     width: auto;
+    border-right: 12px solid rgb(240 238 232);
+   
     
 }
 
@@ -24,7 +26,7 @@ h3, p {
 
 body {
     margin: 0;
-    /* border: 12px solid rgb(240 238 232); */
+    border: 12px solid rgb(240 238 232);
     color: rgb(42 46 53);
     height: 100%;
     width: fit-content;
@@ -66,7 +68,8 @@ body {
     img {
         width: 100%;
         height: auto;
-        /* border-right: 12px solid rgb(240 238 232); */
+        border-bottom: 12px solid rgb(240 238 232);
+        
 
     }
 
